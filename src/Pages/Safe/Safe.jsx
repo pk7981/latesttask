@@ -1,5 +1,5 @@
 import React from 'react';
-import './safe.css';
+import './Safe.css';
 
 function Safe() {
   return (
